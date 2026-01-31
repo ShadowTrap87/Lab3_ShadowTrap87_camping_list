@@ -5,5 +5,8 @@ Purpose: To create a list of items for a camping trip, display the total number 
 Stater Code: None
 Date: 01/30/26
 """
-
+#Camping item list
 camping_items = ["Tent", "Sleeping Bag", "Bug Spray", "Sunscreen", "First-Aid Kit", "Water Bottle", "Map", "Lighter", "Lights", "Food"]
+
+#Item total
+print ("The total number of items is:", len(camping_items))
