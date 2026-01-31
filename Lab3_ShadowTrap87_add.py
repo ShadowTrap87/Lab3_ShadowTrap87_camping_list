@@ -15,3 +15,5 @@ camping_items.append('Extra Clothes')
 camping_items.append('Outdoor Activities')
 camping_items.append('Hygiene Items')
 
+#Item total
+print (f"\nThe total number of items is:",len(camping_items))
