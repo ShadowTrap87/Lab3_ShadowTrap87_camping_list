@@ -11,3 +11,14 @@ from Lab3_ShadowTrap87_add import camping_items
 #Replace
 camping_items[8] = 'Binoculars'
 
+#Slicing
+print(f'\n')
+for before in camping_items[0:8]:
+    print (before)
+
+print(f'\n')
+print (camping_items[8])
+
+print(f'\n')
+for after in camping_items[9:]:
+    print (after)
