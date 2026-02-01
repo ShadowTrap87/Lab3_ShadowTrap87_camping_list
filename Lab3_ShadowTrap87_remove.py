@@ -11,3 +11,9 @@ from Lab3_ShadowTrap87_replace import camping_items
 
 #Remove Binoculars
 camping_items.remove ('Binoculars')
+
+#Final list
+print("\nFinal Camping List:")
+for list in sorted (camping_items):
+    print (list)
+
