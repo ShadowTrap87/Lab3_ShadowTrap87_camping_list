@@ -17,3 +17,5 @@ print("\nFinal Camping List:")
 for list in sorted (camping_items):
     print (list)
 
+#Final Total
+print(f"Total items being brought to the camping trip is: {len(camping_items)}")
