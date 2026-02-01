@@ -5,4 +5,9 @@ Purpose: Replace an item from the camping list with 'binoculars' and to show sli
 Starter Code: Lab3_ShadowTrap87_add.py
 Date: 01/31/26"""
 
+#Import
 from Lab3_ShadowTrap87_add import camping_items
+
+#Replace
+camping_items[8] = 'Binoculars'
+
